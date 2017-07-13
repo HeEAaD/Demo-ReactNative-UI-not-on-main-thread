@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"react": "16.0.0-alpha.12",
-		"react-native": "facebook/react-native"
+		"react-native": "lovoo/react-native#681c5b6d6caf39426b8e9efa13c0fd4a7318a4af"
 	},
 	"devDependencies": {
 		"babel-jest": "20.0.3",

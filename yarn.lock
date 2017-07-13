@@ -3188,9 +3188,9 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native@facebook/react-native:
+react-native@lovoo/react-native#681c5b6d6caf39426b8e9efa13c0fd4a7318a4af:
   version "1000.0.0"
-  resolved "https://codeload.github.com/facebook/react-native/tar.gz/6dd9d1683392d568184f955192d63ecc377088ac"
+  resolved "https://codeload.github.com/lovoo/react-native/tar.gz/681c5b6d6caf39426b8e9efa13c0fd4a7318a4af"
   dependencies:
     absolute-path "^0.0.0"
     art "^0.10.0"
