@@ -1,4 +1,4 @@
-# Demo project for React Native issue [TBD](https://github.com/facebook/react-native/issues/TBD)
+# Demo project for React Native issue [15006](https://github.com/facebook/react-native/issues/15006)
 
 1. `yarn install`
 2. open `ReactNativeUINotOnMainThread.xcodeproj` with Xcode 9
