@@ -6,4 +6,4 @@
 4. wait until the app is launched in the simulator
 5. scroll a bit in the app
 6. observe the runtime issues in Xcode:
-<TODO IMG>
+<img width="1047" alt="ui-not-on-main-thread" src="https://user-images.githubusercontent.com/118770/28186494-a1c45a96-681b-11e7-9545-c61ec1b40f05.png">
